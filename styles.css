@@ -1,0 +1,137 @@
+body{
+    background-image: url(https://i.ibb.co/21cbYJXB/Untitled-4.jpg);
+    background-size:50%;
+    background-color:#ffffff}
+  
+  header, #title{
+    background-color:black;
+    color: white;
+    width: 500px;
+    height: 40px;
+    margin: 0 auto;
+    font-family: helvetica;
+    font-size:22px;
+    font-weight: 200;
+    letter-spacing: 2px;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+    padding-top: 5px}
+  
+  body, #description{ 
+    font-family: Montserrat;
+    font-weight: 100px;
+    padding:10px;
+    font-style:normal;
+    color: gray;
+    font-size: 20px;
+    margins: 0 auto;
+    text-align: center;}
+  
+  .container{
+    margin: 0 auto;
+    height: 100%;
+    width: 700px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;}
+  
+  fieldset{
+    border:0;
+    padding:0;
+    margin-top: 40px}
+  
+  label, input{
+    display: block;
+    margin: 0.5rem 0;}
+  
+  #name,#email,#number{
+    background-color: #e7e7e7;
+    width:40em;
+    border:1px solid black; 
+    border-radius: 10px;
+    height: 60px;
+    padding-left: 10px;}
+  
+  #number-label{
+    margin-left: 18px}
+  
+  .personalinfo{
+    display:inline-block;
+    margin: 0 auto;}
+  
+  [placeholder]{
+    font-size: 0.75em}
+    
+   #dropdown{
+     position: relative;
+     display: inline-block;
+     margin: 20px auto;
+     margin-bottom:0;
+     padding-bottom:0;
+     background-color: #f4f4f4;
+     width:587px;
+     height: 60px;}
+  
+  .inline{
+     display: inline;
+     margin: 0 auto}
+  
+  #description{
+     background-color: #e7e7e7;
+     color: 2b2b2b;
+     border-radius: 5px;
+     border: 1px solid #e7e7e7;
+     font-size: 15px;
+     text-align:left;
+     padding:20px;
+     margin:10px;
+     letter-spacing: 1.2px}
+  
+  .answerfield{
+     background-color: #e7e7e7;
+     border: 1px solid black;
+     border-radius: 10px;
+     width: 349px;
+     height: 180px;
+     padding: 5px;
+     margin: 10px auto;
+     text-align:left;
+     line-height: 35px;
+     letter-spacing: 0.4px;}
+      
+  .textdropdown{
+     background-color: #e7e7e7;
+     border: 1px solid black;
+     border-radius: 10px;
+     margin: 10px auto;
+     padding: 1em;
+     width: 587px;
+     height: 140px;}
+  
+  #name-label{
+     display: inline;}
+  
+  #comments{
+    border: 2px solid #EEB422;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 15px;
+    font-color: #2e2e2e;
+    margin: 10px auto}
+  
+  #submit{
+    height:50px;
+    width:260px;
+    background-color: #2e2e2e;
+    color: white;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 25pX;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px}
+  
+  legend{
+    margin:0 auto;}
